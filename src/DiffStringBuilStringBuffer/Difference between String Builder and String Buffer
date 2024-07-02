@@ -1,0 +1,16 @@
+Differences between StringBuilder and StringBuffer
+Synchronization:
+
+StringBuilder is not synchronized, hence not thread-safe but faster.
+StringBuffer is synchronized, hence thread-safe but slower.
+Performance:
+
+StringBuilder performs better than StringBuffer in single-threaded environments due to the lack of synchronization overhead.
+StringBuffer performs well in multi-threaded environments where thread safety is required.
+Use Case:
+
+Use StringBuilder when working in a single-threaded context.
+Use StringBuffer when working in a multi-threaded context.
+When to Use
+StringBuilder: When you need a mutable string and your application is single-threaded or does not require thread safety.
+StringBuffer: When you need a mutable string and your application is multi-threaded and requires thread safety.
