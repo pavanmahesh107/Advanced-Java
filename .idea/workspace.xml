@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="437438e8-6143-4ba0-b9fa-8fe3c0ede43c" name="Changes" comment="Adding Abstract &amp; Interface Class.">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +40,8 @@
     "Application.Dog.executor": "Run",
     "Application.Lion.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.StringBuilderDemo.executor": "Run",
+    "Application.StringBuilderExample.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -76,7 +72,7 @@
       <updated>1719807603717</updated>
       <workItem from="1719807604840" duration="128000" />
       <workItem from="1719807743451" duration="3040000" />
-      <workItem from="1719826513773" duration="3565000" />
+      <workItem from="1719826513773" duration="5980000" />
     </task>
     <task id="LOCAL-00001" summary="Adding Anonymous Class.">
       <option name="closed" value="true" />
