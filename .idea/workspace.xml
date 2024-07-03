@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="437438e8-6143-4ba0-b9fa-8fe3c0ede43c" name="Changes" comment="Adding Abstract &amp; Interface Class.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambdas/Comparator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/Comparator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Comparator/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comparator/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Streams/streamdemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streams/streamdemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdas/Comparator/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/Comparator/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,31 +43,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Cat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dog.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringBufferExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringBuilderDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringBuilderExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringBuildervsStringBuffer.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Cat.executor": "Run",
+    "Application.Client.executor": "Run",
+    "Application.Dog.executor": "Run",
+    "Application.Lion.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.StringBufferExample.executor": "Run",
+    "Application.StringBuilderDemo.executor": "Run",
+    "Application.StringBuilderExample.executor": "Run",
+    "Application.StringBuildervsStringBuffer.executor": "Run",
+    "Application.streamdemo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Application.streamdemo">
     <configuration name="StringBuildervsStringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DiffStringBuilStringBuffer.StringBuildervsStringBuffer" />
       <module name="Advanced Java" />
@@ -79,8 +82,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="streamdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.streamdemo" />
+      <module name="Advanced Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.streamdemo" />
         <item itemvalue="Application.StringBuildervsStringBuffer" />
       </list>
     </recent_temporary>
@@ -96,7 +113,7 @@
       <workItem from="1719807604840" duration="128000" />
       <workItem from="1719807743451" duration="3040000" />
       <workItem from="1719826513773" duration="28941000" />
-      <workItem from="1719996425374" duration="3426000" />
+      <workItem from="1719996425374" duration="10446000" />
     </task>
     <task id="LOCAL-00001" summary="Adding Anonymous Class.">
       <option name="closed" value="true" />
