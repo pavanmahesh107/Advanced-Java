@@ -7,7 +7,6 @@ public class Lion implements MyInterface{
     public void makeSound() {
         System.out.println("Lion makes ROAR, ROAR Sound!");
     }
-
     public static void main(String[] args) {
 
         MyInterface myInterface = new Lion();

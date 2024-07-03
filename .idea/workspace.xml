@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="437438e8-6143-4ba0-b9fa-8fe3c0ede43c" name="Changes" comment="Adding Abstract &amp; Interface Class.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ImplementingInterfaces/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ImplementingInterfaces/Lion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Cat.executor": "Run",
+    "Application.Client.executor": "Run",
     "Application.Dog.executor": "Run",
     "Application.Lion.executor": "Run",
     "Application.Main.executor": "Run",
@@ -100,7 +102,7 @@
       <updated>1719807603717</updated>
       <workItem from="1719807604840" duration="128000" />
       <workItem from="1719807743451" duration="3040000" />
-      <workItem from="1719826513773" duration="14289000" />
+      <workItem from="1719826513773" duration="18858000" />
     </task>
     <task id="LOCAL-00001" summary="Adding Anonymous Class.">
       <option name="closed" value="true" />
