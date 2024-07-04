@@ -16,5 +16,10 @@ public class Client {
                   .map(String -> String.toUpperCase()).toList();
 
         System.out.println(filterNames);
+
+        List<Integer> number = Arrays.asList(1,9,5,3,10);
+
+        List<Integer> square = number.stream().map(numbers -> numbers *9).toList();
+        System.out.println(square);
     }
 }

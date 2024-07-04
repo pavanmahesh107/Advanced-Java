@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="437438e8-6143-4ba0-b9fa-8fe3c0ede43c" name="Changes" comment="Adding Abstract &amp; Interface Class.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Streams/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streams/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +111,7 @@
       <workItem from="1719807604840" duration="128000" />
       <workItem from="1719807743451" duration="3040000" />
       <workItem from="1719826513773" duration="28941000" />
-      <workItem from="1719996425374" duration="11511000" />
+      <workItem from="1719996425374" duration="12998000" />
     </task>
     <task id="LOCAL-00001" summary="Adding Anonymous Class.">
       <option name="closed" value="true" />
